@@ -16,8 +16,9 @@ Requirements
 * WSGI server (e.g. gunicorn)
 * python 3
 * third party modules
-  - flask
-  - pymysql
+
+    - flask
+    - pymysql
 
 
 Idea of the program
